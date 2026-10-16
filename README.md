@@ -1,5 +1,3 @@
-# .github
-
 # Unstale
 
 We upgrade apps that are stuck on end-of-life versions of PHP, Laravel, Node.js, Python, Django and Rails.
